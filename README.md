@@ -104,12 +104,20 @@ flowchart LR
 - Migraciones verticales: modelo, datasource, repositorio, caso de uso, BLoC, UI, DI y rutas.
 - Bases reutilizables que ayuden al equipo, no que lo obliguen a pelearse con el proyecto.
 
-## GitHub en números
+## GitHub en foco
 
-<p align="center">
-  <img height="165" alt="Estadísticas de GitHub" src="https://github-readme-stats.vercel.app/api?username=EJ-1304&show_icons=true&theme=react&hide_border=true&locale=es&rank_icon=github&bg_color=0D1117&title_color=13B9FD&icon_color=13B9FD&text_color=C9D1D9" />
-  <img height="165" alt="Lenguajes principales" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EJ-1304&layout=compact&theme=react&hide_border=true&locale=es&bg_color=0D1117&title_color=13B9FD&text_color=C9D1D9" />
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Lo que más vas a encontrar</h3>
+      <p>Repositorios Flutter y Dart, bases reutilizables, arquitectura por features, BLoC, Firebase, integraciones y herramientas para acelerar entregas móviles.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Mi foco técnico</h3>
+      <p>Aplicaciones mantenibles, UI legible, separación de capas, estados claros, automatización de builds y código pensado para equipos que necesitan evolucionar rápido.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
