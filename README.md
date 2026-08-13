@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm José 👋
 
-<!--
-**EJ-1304/EJ-1304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Flutter Developer · Mobile Architecture · Clean Architecture
 
-Here are some ideas to get you started:
+I build and evolve Flutter applications that need to scale across features, teams, and environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My focus is turning complex codebases into modular, testable, and maintainable products while keeping the UI layer cohesive and easy to understand.
+
+## What I work with
+
+- Flutter and Dart for Android and iOS
+- Feature-first Clean Architecture
+- Predictable state management with BLoC
+- Dependency injection with GetIt
+- REST APIs, Firebase, push notifications, and biometrics
+- Multiple environments, flavors, and CI/CD
+- Refactoring and migration of legacy Flutter applications
+
+## Engineering approach
+
+- Clear boundaries between data, domain, and presentation
+- Cohesive UI code that remains easy to understand
+- Reusable foundations without unnecessary abstraction
+- Automated quality checks and maintainable delivery workflows
+
+## Featured work
+
+### [Flutter App Foundation](https://github.com/EJ-1304/basic_template_public)
+
+A reusable Flutter foundation organized by feature, with separated data, domain, and presentation layers, BLoC state management, environment flavors, linting, and automated delivery practices.
+
+## Let's connect
+
+[LinkedIn](https://www.linkedin.com/in/joseencina) · [Email](mailto:josencina1304@gmail.com)
